@@ -27,3 +27,8 @@ This project requires the following Python packages:
 
 ```bash
 pip install -q ultralytics
+
+✅ Tested Environment:
+Python 3.10+
+Kaggle Notebook with GPU
+Ultralytics YOLOv8/YOLOv11 compatible environment
