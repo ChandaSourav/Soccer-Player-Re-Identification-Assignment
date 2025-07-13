@@ -1,8 +1,3 @@
-# Soccer-Player-Re-Identification-Assignment
-
-Cross-Camera Player Mapping<br>
-Re-Identification in a Single Feed
-
 # ⚽ Soccer Player Re-Identification — Cross-Camera Mapping (Option 1)
 
 ---
