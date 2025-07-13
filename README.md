@@ -26,4 +26,4 @@
 This project requires the following Python packages:
 
 ```bash
-pip install ultralytics
+pip install -q ultralytics
